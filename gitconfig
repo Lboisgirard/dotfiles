@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ludovic.boisgirard@gmail.com
+	name = Ludovic Boisgirard
